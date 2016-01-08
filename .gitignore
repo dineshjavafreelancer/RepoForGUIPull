@@ -1,0 +1,5 @@
+# This is my .gitignore file
+# This line is ignored 
+*.class
+*.jar
+*.war
